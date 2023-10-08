@@ -10,4 +10,3 @@ Nota: Este plugin ainda está em estágio inicial e tem características primiti
 
 Se desejar saber mais sobre meu trabalho profissional e outros projetos, sinta-se à vontade para entrar em contato.
 
-Esse é um resumo simplificado para um README. Você pode expandi-lo com instruções de instalação, capturas de tela, como contribuir e outros detalhes relevantes conforme necessário.
